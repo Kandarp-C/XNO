@@ -70,6 +70,7 @@ void check(char a11,char a12, char a13,char a21,char a22, char a23,char a31,char
     printf("o won the game\n\n********************\n");
     l='n';
   }
+    //Main starts here
 }
 void main(){
     char a11,a12,a13,a21,a22,a23,a31,a32,a33;
